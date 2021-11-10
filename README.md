@@ -1,7 +1,8 @@
 # udi-label-printer
 GS1-DataMatrix Randered Label Soft
 
-
+Check Versions on https://github.com/weirros/udi-label-printer/releases/download/v0.9/tar.zip
+Tested under win10x64;
 
 ![Main](https://github.com/weirros/udi-label-printer/blob/main/image2.png "MainPage")
 
