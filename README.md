@@ -8,7 +8,9 @@ GS1-DataMatrix Randered Label Soft
 ![Designer](https://github.com/weirros/udi-label-printer/blob/main/image.png "PageDesigner")
 
 Thanks:
-Zint;
+
+##Zint;
+
 https://zint.github.io/
 
 Zint may be downloaded from:
@@ -19,9 +21,11 @@ https://github.com/downloads/zint/zint/zint_manual_242.pdf
 
 Please visit https://github.com/zint/zint for more information.
 
-PySimpleGui;
+##PySimpleGui;
+
 https://github.com/PySimpleGUI
 
 ![Pysimplegui](https://raw.githubusercontent.com/PySimpleGUI/PySimpleGUI/master/images/for_readme/Logo%20with%20text%20for%20GitHub%20Top.png "Pysimplegui")
+
 
 Please visit https://pysimplegui.readthedocs.io/en/latest/ for more information.
