@@ -9,7 +9,7 @@ GS1-DataMatrix Randered Label Soft
 
 Thanks:
 
-##Zint;
+## Zint;
 
 https://zint.github.io/
 
@@ -21,7 +21,7 @@ https://github.com/downloads/zint/zint/zint_manual_242.pdf
 
 Please visit https://github.com/zint/zint for more information.
 
-##PySimpleGui;
+## PySimpleGui;
 
 https://github.com/PySimpleGUI
 
