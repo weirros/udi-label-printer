@@ -29,3 +29,11 @@ https://github.com/PySimpleGUI
 
 
 Please visit https://pysimplegui.readthedocs.io/en/latest/ for more information.
+
+## Pillow;
+
+![Pillow](https://python-pillow.org/images/pillow-logo.png "Pillow")
+
+Please visit https://python-pillow.org/ for more information.
+
+
